@@ -1,0 +1,19 @@
+{
+    "name": "Die_Doekom_Boek",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "BhCWQYzJZPd3sDxM2qGTbotTYBLMRnWsD9sfuuZjasuh",
+          "share": 100
+        }
+      ]
+    }
+  }
